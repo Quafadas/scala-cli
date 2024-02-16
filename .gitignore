@@ -9,5 +9,7 @@ out/
 dest/
 target/
 
+*/scoverage.coverage
+
 # ignore vim backup files
 *.sw[op]
